@@ -20,7 +20,7 @@ public class Matrix2 {
         this.b1 = b1;
         this.b2 = b2;
     }
-    public Matrix2(double a11, double a12, double a21, double a22){
+    public Matrix2(double a11, double a12, double a21, double a22) {
         this.a1 = a11;
         this.a2 = a12;
         this.b1 = a21;
